@@ -7,7 +7,7 @@ interface BillboardProps {
 }
 
 const Billboard: React.FC<BillboardProps> = ({ data }) => {
-    console.log("This is the billboard in the billboard page", data)
+   
     return (
         <div className='p-4 sm:p-6 lg:p-8 rounded-xl overflow-hidden'  
         style={{height: '50vh'}}
