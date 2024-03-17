@@ -6,5 +6,8 @@ export const revalidate = 0;
 
  npm i query-string
 
+ npm i zustand
+ 
+
 
 (base) shivakhatri@Shivas-Air ecommerce-store % npm i @headlessui/react
