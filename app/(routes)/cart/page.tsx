@@ -4,6 +4,7 @@ import useCart from "@/app/hooks/use-cart";
 import Container from "@/components/ui/container";
 import { useState, useEffect, use } from "react";
 import CartItem from "./components/cart-item";
+import Summary from "./components/summary";
 
 
 
@@ -35,6 +36,8 @@ const CartPage = () => {
 
                         </ul>
                     </div>
+
+                    <Summary/>
 
                 </div>
 
