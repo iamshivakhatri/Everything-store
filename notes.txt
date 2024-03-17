@@ -1,0 +1,5 @@
+npm i clsx tailwind-merge --> it helps to combine the classes
+
+command+shift+r refresh
+
+export const revalidate = 0;
